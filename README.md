@@ -1,0 +1,2 @@
+# AngularCLI
+Exibindo um pokedex
